@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# System files
+__pycache__/
+*.pyc
+
+# Model files
+models/*.pkl
+
+# Data
+data/*.csv
+
+# Streamlit config
+.streamlit/
+
+# VS Code
+.vscode/
