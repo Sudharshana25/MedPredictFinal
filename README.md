@@ -3,8 +3,6 @@
 
 > A real-time machine learning system to predict diabetes risk from medical data — built using Python, scikit-learn, and Streamlit.
 
-![medpredict-banner](https://imgur.com/aREbmQt.png)
-
 ---
 
 ## Features
