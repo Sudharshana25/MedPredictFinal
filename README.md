@@ -19,7 +19,7 @@
 ## Machine Learning Models Used
 
 - Logistic Regression  
-- Random Forest 🌲 *(Best performer)*  
+- Random Forest *(Best performer)*  
 - Support Vector Machine (SVM)  
 - K-Nearest Neighbors (KNN)  
 
